@@ -1,0 +1,1 @@
+It's initial structure and packages for new project
